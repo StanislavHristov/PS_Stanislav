@@ -1,0 +1,116 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Stanislav\\Documents\\PS_43_Stanislav\\PS_43_Stanislav\\PS_43_Stanislav\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0F5033C4-1F5B-4A57-9F0B-31E755B54BEB}|DataLayer\\DataLayer.csproj|c:\\users\\stanislav\\documents\\ps_43_stanislav\\ps_43_stanislav\\ps_43_stanislav\\datalayer\\model\\logentry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F5033C4-1F5B-4A57-9F0B-31E755B54BEB}|DataLayer\\DataLayer.csproj|solutionrelative:datalayer\\model\\logentry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38C44FCC-D3DE-4302-A017-B20C5AD0DD6E}|Welcome\\Welcome.csproj|c:\\users\\stanislav\\documents\\ps_43_stanislav\\ps_43_stanislav\\ps_43_stanislav\\welcome\\model\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38C44FCC-D3DE-4302-A017-B20C5AD0DD6E}|Welcome\\Welcome.csproj|solutionrelative:welcome\\model\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A708957-05A2-482F-99F3-CC094D4ECC59}|UI\\UI.csproj|c:\\users\\stanislav\\documents\\ps_43_stanislav\\ps_43_stanislav\\ps_43_stanislav\\ui\\components\\studentslist.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{1A708957-05A2-482F-99F3-CC094D4ECC59}|UI\\UI.csproj|solutionrelative:ui\\components\\studentslist.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38C44FCC-D3DE-4302-A017-B20C5AD0DD6E}|Welcome\\Welcome.csproj|c:\\users\\stanislav\\documents\\ps_43_stanislav\\ps_43_stanislav\\ps_43_stanislav\\welcome\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38C44FCC-D3DE-4302-A017-B20C5AD0DD6E}|Welcome\\Welcome.csproj|solutionrelative:welcome\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F5033C4-1F5B-4A57-9F0B-31E755B54BEB}|DataLayer\\DataLayer.csproj|c:\\users\\stanislav\\documents\\ps_43_stanislav\\ps_43_stanislav\\ps_43_stanislav\\datalayer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F5033C4-1F5B-4A57-9F0B-31E755B54BEB}|DataLayer\\DataLayer.csproj|solutionrelative:datalayer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE5D57DE-F3A3-460A-A1C7-D32CB83381A5}|WelcomeExtended\\WelcomeExtended.csproj|c:\\users\\stanislav\\documents\\ps_43_stanislav\\ps_43_stanislav\\ps_43_stanislav\\welcomeextended\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE5D57DE-F3A3-460A-A1C7-D32CB83381A5}|WelcomeExtended\\WelcomeExtended.csproj|solutionrelative:welcomeextended\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LogEntry.cs",
+              "DocumentMoniker": "C:\\Users\\Stanislav\\Documents\\PS_43_Stanislav\\PS_43_Stanislav\\PS_43_Stanislav\\DataLayer\\Model\\LogEntry.cs",
+              "RelativeDocumentMoniker": "DataLayer\\Model\\LogEntry.cs",
+              "ToolTip": "C:\\Users\\Stanislav\\Documents\\PS_43_Stanislav\\PS_43_Stanislav\\PS_43_Stanislav\\DataLayer\\Model\\LogEntry.cs",
+              "RelativeToolTip": "DataLayer\\Model\\LogEntry.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T12:40:36.331Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\Stanislav\\Documents\\PS_43_Stanislav\\PS_43_Stanislav\\PS_43_Stanislav\\Welcome\\Model\\User.cs",
+              "RelativeDocumentMoniker": "Welcome\\Model\\User.cs",
+              "ToolTip": "C:\\Users\\Stanislav\\Documents\\PS_43_Stanislav\\PS_43_Stanislav\\PS_43_Stanislav\\Welcome\\Model\\User.cs",
+              "RelativeToolTip": "Welcome\\Model\\User.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA0AAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T07:30:52.94Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StudentsList.xaml",
+              "DocumentMoniker": "C:\\Users\\Stanislav\\Documents\\PS_43_Stanislav\\PS_43_Stanislav\\PS_43_Stanislav\\UI\\Components\\StudentsList.xaml",
+              "RelativeDocumentMoniker": "UI\\Components\\StudentsList.xaml",
+              "ToolTip": "C:\\Users\\Stanislav\\Documents\\PS_43_Stanislav\\PS_43_Stanislav\\PS_43_Stanislav\\UI\\Components\\StudentsList.xaml",
+              "RelativeToolTip": "UI\\Components\\StudentsList.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-24T12:09:48.35Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Stanislav\\Documents\\PS_43_Stanislav\\PS_43_Stanislav\\PS_43_Stanislav\\Welcome\\Program.cs",
+              "RelativeDocumentMoniker": "Welcome\\Program.cs",
+              "ToolTip": "C:\\Users\\Stanislav\\Documents\\PS_43_Stanislav\\PS_43_Stanislav\\PS_43_Stanislav\\Welcome\\Program.cs",
+              "RelativeToolTip": "Welcome\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T12:01:11.299Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Stanislav\\Documents\\PS_43_Stanislav\\PS_43_Stanislav\\PS_43_Stanislav\\DataLayer\\Program.cs",
+              "RelativeDocumentMoniker": "DataLayer\\Program.cs",
+              "ToolTip": "C:\\Users\\Stanislav\\Documents\\PS_43_Stanislav\\PS_43_Stanislav\\PS_43_Stanislav\\DataLayer\\Program.cs",
+              "RelativeToolTip": "DataLayer\\Program.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAB4AAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T08:18:54.079Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Stanislav\\Documents\\PS_43_Stanislav\\PS_43_Stanislav\\PS_43_Stanislav\\WelcomeExtended\\Program.cs",
+              "RelativeDocumentMoniker": "WelcomeExtended\\Program.cs",
+              "ToolTip": "C:\\Users\\Stanislav\\Documents\\PS_43_Stanislav\\PS_43_Stanislav\\PS_43_Stanislav\\WelcomeExtended\\Program.cs",
+              "RelativeToolTip": "WelcomeExtended\\Program.cs",
+              "ViewState": "AQIAADEAAAAAAAAAAAAQwCoAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T08:12:05.59Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

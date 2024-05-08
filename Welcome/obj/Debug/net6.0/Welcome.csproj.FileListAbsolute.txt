@@ -1,0 +1,14 @@
+C:\Users\Stanislav\Documents\PS_43_Stanislav\PS_43_Stanislav\PS_43_Stanislav\Welcome\bin\Debug\net6.0\Welcome.exe
+C:\Users\Stanislav\Documents\PS_43_Stanislav\PS_43_Stanislav\PS_43_Stanislav\Welcome\bin\Debug\net6.0\Welcome.deps.json
+C:\Users\Stanislav\Documents\PS_43_Stanislav\PS_43_Stanislav\PS_43_Stanislav\Welcome\bin\Debug\net6.0\Welcome.runtimeconfig.json
+C:\Users\Stanislav\Documents\PS_43_Stanislav\PS_43_Stanislav\PS_43_Stanislav\Welcome\bin\Debug\net6.0\Welcome.dll
+C:\Users\Stanislav\Documents\PS_43_Stanislav\PS_43_Stanislav\PS_43_Stanislav\Welcome\bin\Debug\net6.0\Welcome.pdb
+C:\Users\Stanislav\Documents\PS_43_Stanislav\PS_43_Stanislav\PS_43_Stanislav\Welcome\obj\Debug\net6.0\Welcome.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Stanislav\Documents\PS_43_Stanislav\PS_43_Stanislav\PS_43_Stanislav\Welcome\obj\Debug\net6.0\Welcome.AssemblyInfoInputs.cache
+C:\Users\Stanislav\Documents\PS_43_Stanislav\PS_43_Stanislav\PS_43_Stanislav\Welcome\obj\Debug\net6.0\Welcome.AssemblyInfo.cs
+C:\Users\Stanislav\Documents\PS_43_Stanislav\PS_43_Stanislav\PS_43_Stanislav\Welcome\obj\Debug\net6.0\Welcome.csproj.CoreCompileInputs.cache
+C:\Users\Stanislav\Documents\PS_43_Stanislav\PS_43_Stanislav\PS_43_Stanislav\Welcome\obj\Debug\net6.0\Welcome.dll
+C:\Users\Stanislav\Documents\PS_43_Stanislav\PS_43_Stanislav\PS_43_Stanislav\Welcome\obj\Debug\net6.0\refint\Welcome.dll
+C:\Users\Stanislav\Documents\PS_43_Stanislav\PS_43_Stanislav\PS_43_Stanislav\Welcome\obj\Debug\net6.0\Welcome.pdb
+C:\Users\Stanislav\Documents\PS_43_Stanislav\PS_43_Stanislav\PS_43_Stanislav\Welcome\obj\Debug\net6.0\Welcome.genruntimeconfig.cache
+C:\Users\Stanislav\Documents\PS_43_Stanislav\PS_43_Stanislav\PS_43_Stanislav\Welcome\obj\Debug\net6.0\ref\Welcome.dll
